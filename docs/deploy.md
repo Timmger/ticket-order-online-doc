@@ -202,6 +202,6 @@ $ vim /etc/nginx/conf.d/default.conf
 
 ![部署](_images/deploy7.png)
 
-浏览器打开访问：<a href="http://121.4.26.253/"><img alt="demo" src="https://img.shields.io/badge/%E6%BC%94%E7%A4%BA-grey?logo=airplay-video"></a>
+浏览器打开访问：<a href="http://www.timmger.online/"><img alt="demo" src="https://img.shields.io/badge/%E6%BC%94%E7%A4%BA-grey?logo=airplay-video"></a>
 
 ![部署](_images/deploy8.png)
